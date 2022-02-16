@@ -9,6 +9,7 @@ Check out the :doc:`POU's` section for further information.
 .. note::
 
    This project is under active development.
+   Lumache has its documentation hosted on Read the Docs.
 
 Contents
 --------

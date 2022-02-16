@@ -4,7 +4,7 @@ Welcome to Gain Beckhoff Library (GBL) documentation!
 **Gain Beckhoff Library** is a library developed by Gain Automation Technology.
 This library uses the Gain Standard.
 
-Check out the :doc:`POU's` section for further information.
+Check out the :doc:`POU` section for further information.
 
 .. note::
 
@@ -16,4 +16,4 @@ Contents
 
 .. toctree::
 
-   POU's
+   POU
